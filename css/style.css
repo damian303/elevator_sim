@@ -1,0 +1,30 @@
+body{
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Arial', sans-serif;
+  margin:0; padding:0;
+}
+button{margin:5px;}
+table{background:white;}
+#time{
+  margin:5px;
+}
+.info{
+  height:60px;
+  width: auto;
+}
+.numbers{
+  padding-left: 5px;
+  width:30px;
+  height:20px;
+}
+.floor{
+  width:150px;
+  height:20px;
+  border:1px solid black;
+  color:white;
+  text-align:center;
+}
+.side{
+  width:150px;
+  height:20px;
+}
